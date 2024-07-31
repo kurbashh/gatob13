@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Admin\Desktop\gatob\env"
+VIRTUAL_ENV="C:\Users\artur\OneDrive\Рабочий стол\gatob13\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
